@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Swe514-project:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Swe514_project_jar</output-path>
+    <root id="archive" name="Swe514-project.jar">
+      <element id="module-output" name="Swe514-project" />
+    </root>
+  </artifact>
+</component>
